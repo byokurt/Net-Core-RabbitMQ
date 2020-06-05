@@ -1,8 +1,6 @@
 # Net Core RabbitMQ
 Merhabalar,
 
-Bu yazımızda kısaca .net core üzerinde rabbitMQ kullanımı göreceğiz. RabbitMQ nedir nasıl çalışır gibi sorularınıza cevap vermedim. Ancak bir sorunuz varsa yorum kısmından iletebilirsiniz. 
-
 İlk yapılması gereken bilgisayarınıza yok ise docker kurulumunu gerçekleştirmek. 
 
 https://www.docker.com/get-started
